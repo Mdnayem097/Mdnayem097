@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Mdnayem097
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Project Name
 
-<!---
-Mdnayem097/Mdnayem097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔗 Live Link
+https://precious-maamoul-483b20.netlify.app/
+https://eclectic-beijinho-e9ba48.netlify.app/
+https://eloquent-platypus-a28866.netlify.app/
+https://mdnayem097.github.io/Assignment-4/
+
+## 🛠 Tech Stack
+- React / Next.js
+- Tailwind CSS
+
+## ✨ Features
+- Responsive design
+- API integration
+- Authentication (if any)
+
+## 📦 Installation
+npm install
+npm run dev
