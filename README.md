@@ -16,6 +16,34 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 - 🎨 Improving UI/UX design skills using Tailwind CSS  
 - 📚 Learning more about performance optimization in web apps  
 
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+---
+
+### ⚙️ Backend / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+---
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
 ## 🔗 Live Link
 https://precious-maamoul-483b20.netlify.app/
 
