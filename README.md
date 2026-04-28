@@ -44,6 +44,11 @@ I enjoy learning new technologies and improving my problem-solving skills every 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 </p>
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdnayem097&theme=react-dark" />
+</p>
+
 ## 🔗 Live Link
 https://precious-maamoul-483b20.netlify.app/
 
