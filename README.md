@@ -34,7 +34,7 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 
 ### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
 ---
