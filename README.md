@@ -9,6 +9,13 @@ I love building modern, responsive, and user-friendly web applications using Rea
 
 I enjoy learning new technologies and improving my problem-solving skills every day.
 
+## 🚀 Current Activities
+
+- 🌱 I’m currently exploring Next.js and advanced React concepts
+- 🔧 Practicing API integration and dynamic routing  
+- 🎨 Improving UI/UX design skills using Tailwind CSS  
+- 📚 Learning more about performance optimization in web apps  
+
 ## 🔗 Live Link
 https://precious-maamoul-483b20.netlify.app/
 
