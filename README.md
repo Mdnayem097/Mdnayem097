@@ -3,6 +3,12 @@
 # 👋 Hi, I'm Md Nayem
 ### 💻 Frontend Developer | Next.js Enthusiast
 
+## 👨‍💻 About Me
+I’m Md Nayem, a passionate Frontend Developer from Dhaka, Bangladesh.  
+I love building modern, responsive, and user-friendly web applications using React and Next.js.  
+
+I enjoy learning new technologies and improving my problem-solving skills every day.
+
 ## 🔗 Live Link
 https://precious-maamoul-483b20.netlify.app/
 
