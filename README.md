@@ -49,10 +49,18 @@ I enjoy learning new technologies and improving my problem-solving skills every 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdnayem097&theme=react-dark" />
 </p>
 
-## 💻 Most Used Languages
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ## 🔗 Live Link
