@@ -4,7 +4,7 @@
 ### 💻 Web Developer | Next.js Enthusiast
 
 ## 👨‍💻 About Me
-I’m Md Nayem, a passionate Frontend Developer from Dhaka, Bangladesh.  
+I’m Md Nayem, a passionate Web Developer from Dhaka, Bangladesh.  
 I love building modern, responsive, and user-friendly web applications using React and Next.js.  
 
 I enjoy learning new technologies and improving my problem-solving skills every day.
