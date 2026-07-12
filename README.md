@@ -56,24 +56,22 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 </p>
 
 ## 🔗 Live Link
-https://livestock-booking.vercel.app/
-
-https://precious-maamoul-483b20.netlify.app/
-
-https://eclectic-beijinho-e9ba48.netlify.app/
-
-https://eloquent-platypus-a28866.netlify.app/
-
-https://mdnayem097.github.io/Assignment-4/
+ TradeNest: https://trade-nest-eosin.vercel.app
+ DocAppiont: https://doctor-appointment-manager-client.vercel.app
+ SkillSwap: https://skillswap-alpha-gray.vercel.app
+ CineTrack: https://cine-track-flax.vercel.app
 
 ## 🛠 Tech Stack
 - React / Next.js
+- TypeScript (Basick)
 - Tailwind CSS
 
 ## ✨ Features
 - Responsive design
 - API integration
 - Authentication (if any)
+- Authorization
+- Payment Integration
 
 📍 Dhaka, Bangladesh  
 📧 mdnayemswe@gmail.com
