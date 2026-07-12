@@ -56,10 +56,10 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 </p>
 
 ## 🔗 Live Link
- TradeNest: https://trade-nest-eosin.vercel.app
- DocAppiont: https://doctor-appointment-manager-client.vercel.app
- SkillSwap: https://skillswap-alpha-gray.vercel.app
- CineTrack: https://cine-track-flax.vercel.app
+- TradeNest: https://trade-nest-eosin.vercel.app
+- DocAppiont: https://doctor-appointment-manager-client.vercel.app
+- SkillSwap: https://skillswap-alpha-gray.vercel.app
+- CineTrack: https://cine-track-flax.vercel.app
 
 ## 🛠 Tech Stack
 - React / Next.js
