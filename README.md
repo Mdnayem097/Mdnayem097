@@ -49,12 +49,6 @@ I enjoy learning new technologies and improving my problem-solving skills every 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdnayem097&theme=react-dark" />
 </p>
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdnayem097&layout=compact&theme=tokyonight" />
-</p>
-
 ## 🔗 Live Link
 - TradeNest: https://trade-nest-eosin.vercel.app
 - DocAppiont: https://doctor-appointment-manager-client.vercel.app
