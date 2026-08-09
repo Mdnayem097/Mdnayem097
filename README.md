@@ -11,7 +11,7 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 
 ## 🚀 Current Activities
 
-- 🌱 I’m currently exploring Next.js and advanced React concepts
+- 🌱 I’m currently exploring Typescript, PostgreSQL & Prisma Fundamentals
 - 🔧 Practicing API integration and dynamic routing  
 - 🎨 Improving UI/UX design skills using Tailwind CSS  
 - 📚 Learning more about performance optimization in web apps  
@@ -20,14 +20,14 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind" />
 </p>
 
 ---
 
 ### ⚙️ Backend / Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ I enjoy learning new technologies and improving my problem-solving skills every 
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,prisma" />
 </p>
 
 ## 📈 Contribution Graph
